@@ -1,9 +1,7 @@
 # zweiter_dat_test
 ## wolfi du drescher
 
-hello
-wie gehts
-gehts jetzt?
+das ist der Branch vom Mo
 
 * hello
 
